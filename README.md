@@ -66,6 +66,13 @@
  This will generate the dataset, run your code, and update a local leaderboard.
 
  **Live Leaderboard**: [Leaderboard.md](./Leaderboard.md)
+ ---
+ If you are using AI agents or any LLMs in your solution,
+ I would like to know your steps, planning, prompts, and any other details
+ those tools provide, as well as what tools you are using, which models,
+ and which PR belongs to you.
+ Please email me at: a.tavallaie@gmail.com
+ with subject: pyday2025
 
  ---
 
@@ -145,13 +152,6 @@
  **جدول امتیازات زنده**: [Leaderboard.md](./Leaderboard.md)
 
  ---
-
- If you are using AI agents or any LLMs in your solution,
- I would like to know your steps, planning, prompts, and any other details
- those tools provide, as well as what tools you are using, which models,
- and which PR belongs to you.
- Please email me at: a.tavallaie@gmail.com
- with subject: pyday2025
 
  اگر در راه‌حل خود از عامل‌های هوش مصنوعی (AI agents) یا مدل‌های زبانی بزرگ (LLMs) استفاده می‌کنید،
  دوست دارم مراحل کار، برنامه‌ریزی، پرامپت‌ها و هر جزئیات دیگری که این ابزارها ارائه می‌دهند را بدانم.
