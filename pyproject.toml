@@ -1,7 +1,7 @@
 [project]
 name = "codechallenge2025"
 version = "0.1.0"
-description = "PyDay2025: Forensic STR Parent-Child Relationship Detector Challenge: Scalable kinship search in large DNA datasets using Short Tandem Repeats"
+description = "PyDay2025: Forensic STR Parent-Child Relationship Detector Challenge"
 readme = "README.md"
 authors = [
     { name = "Ali Tavallaie", email = "a.tavallaie@gmail.com" }
